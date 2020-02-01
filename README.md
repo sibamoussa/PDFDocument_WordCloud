@@ -17,7 +17,7 @@ Generate a wordcloud of a PDF document to display the 100 most prevalent words
         8) Run the code
         9) Voila! 
         
- Note: You can make modifications to the code as you wish to improve the text extraction process for a more repsrentative word cloud. 
+ Note: You can make modifications to the code as you wish to improve the text extraction process for a more representative word cloud. 
         
         
 
